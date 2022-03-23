@@ -1,0 +1,1 @@
+This is a simple application that sends the daily/weekly new articles from arxiv which containe the desired research keywords.

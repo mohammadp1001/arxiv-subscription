@@ -1,0 +1,4 @@
+*.bak
+data_user.db
+*.pyc
+
